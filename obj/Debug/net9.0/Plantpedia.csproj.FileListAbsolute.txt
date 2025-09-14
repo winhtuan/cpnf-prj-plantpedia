@@ -195,3 +195,12 @@ E:\dotNet\Plantpedia\obj\Debug\net9.0\refint\Plantpedia.dll
 E:\dotNet\Plantpedia\obj\Debug\net9.0\Plantpedia.pdb
 E:\dotNet\Plantpedia\obj\Debug\net9.0\Plantpedia.genruntimeconfig.cache
 E:\dotNet\Plantpedia\obj\Debug\net9.0\ref\Plantpedia.dll
+E:\dotNet\Plantpedia\obj\Debug\net9.0\Plantpedia.sourcelink.json
+E:\dotNet\Plantpedia\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\dotNet\Plantpedia\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\dotNet\Plantpedia\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dotNet\Plantpedia\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\dotNet\Plantpedia\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\dotNet\Plantpedia\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dotNet\Plantpedia\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\dotNet\Plantpedia\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

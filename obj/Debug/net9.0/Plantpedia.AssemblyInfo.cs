@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Plantpedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26d4510959ac9aa7cd413256806948c302eececb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Plantpedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Plantpedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
