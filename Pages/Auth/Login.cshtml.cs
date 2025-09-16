@@ -72,7 +72,7 @@ namespace MyRazorApp.Pages
             // Nếu đã đăng nhập, redirect đến trang chính
             if (JwtHelper.IsUserAuthenticated(HttpContext))
             {
-                return RedirectToPage("/Admin/Dashboard");
+                return RedirectToPage("/Admin/Admin");
             }
 
             return Page();
@@ -234,7 +234,7 @@ namespace MyRazorApp.Pages
             }
 
             // Default redirect đến Dashboard
-            return RedirectToPage("/Admin/Dashboard");
+            return RedirectToPage("/Admin/Admin");
         }
         #endregion
     }
